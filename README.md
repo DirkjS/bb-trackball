@@ -1,4 +1,5 @@
 bb-trackball
 ============
 
-first try at johnny-five and coffeescript
+Simple program to try out johnny-five and coffeescript. 
+
